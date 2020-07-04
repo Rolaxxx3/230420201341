@@ -1,7 +1,5 @@
 # 230420201341
 
-## Project deployed at https://rolaxxx3.github.io/
-
 ## Project setup
 ```
 npm install
